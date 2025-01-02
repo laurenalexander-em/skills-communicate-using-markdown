@@ -6,4 +6,4 @@
 ###### This is an h6 header
 
 
-I changed the file by adding headers of different sizes.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
